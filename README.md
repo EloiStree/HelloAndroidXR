@@ -5,7 +5,17 @@ Contact & Support: [Discord: Eloi Support](https://eloistree.github.io/r/discord
 
 ----------------------------
 
+# Welcome
+
+Lynx R1, Quest1-2, Quest 3 , Pico... All of those device are running on Android and are supported by Unity3D.  
+In here we will focus on topic that are common ground between those platforms but that we are focus mostly on the XR and AR part of the Lynx R1 and Quest 3.   
+
+If you are into that, you are more then welcome to re-learn with me how to use those devices with Unity.
+
+If you are more only the Lynx R1 or only the Quest 3, I invite you to read on the two git:
+- https://github.com/EloiStree/HelloLynxR1
+- https://github.com/EloiStree/HelloQuest3
 
 
-# HelloAndroidXR
-In this repository, I works and search about what we need to learn and explore to use Quest 3 and Lynx R1 that is usable on both of them.
+
+
