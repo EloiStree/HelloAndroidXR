@@ -1,7 +1,19 @@
 ![image](https://github.com/EloiStree/HelloAndroidXR/assets/20149493/699a2070-84b4-4ddf-b0db-8e4ec76a4ea2)
 
 
+
+
 Question : Que sera le jeu vidéo dans 70 ans ?
+
+Depending on how the interview is going 4 idea of discussion come to my mind:
+- A portable computer block that communicate with your headset with GPC, CPU and AI power locally to delegate tasks from the game / app
+- A video game for who ? Human or machine ? Because of the raise of AI, lost of small game are created to train the AI .
+- Game in mixed reality that need to interact together to share a space with other applications (Example: Tamagotchi that need to understand that in the room he is there are other Tamagotchi, calendar, poster, app , forbidden zone, etc.
+- Mixed reality vs Virtual reality what are the stop point where we have everything we need and science can provide ?
+- Topic I don't like is the: Google Glass and Facebook AR glass . Because it is to much glury on what it will become.
+- Play on virtual big screen... Play on stereo big screen at home... Play a tekken emulation on your couch (already exists ^^... Crazy
+  - So why not classic game having 3D XR Option more and more
+
 
 Guest:
  - https://www.linkedin.com/in/chloé-boels-366012198/
