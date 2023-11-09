@@ -51,6 +51,17 @@ Guest:
   - frontal leg HV- ? 
 
 
+
+-----------------------
+
+Best headset for the moment on PC VR:
+![image](https://github.com/EloiStree/HelloAndroidXR/assets/20149493/0a638d3c-4faf-4c27-bab1-03fb2a8ccd96) 
+![image](https://github.com/EloiStree/HelloAndroidXR/assets/20149493/6e51e037-19c3-4028-9500-2717314ac102)  
+https://youtu.be/z3k0T1mvahY  
+![image](https://github.com/EloiStree/HelloAndroidXR/assets/20149493/2c89c0d7-52ce-47ec-8cd4-d1dfe41c5201)
+5k topic : https://youtu.be/z3k0T1mvahY?t=266
+
+
 ----------------
 
 Discord community Lynx R1 note:
