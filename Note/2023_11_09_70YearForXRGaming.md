@@ -44,6 +44,12 @@ Guest:
  
 
 
+- Body tracking:
+  - Feet V
+  - Body HV
+  - Arms V
+  - frontal leg HV- ? 
+
 
 ----------------
 
