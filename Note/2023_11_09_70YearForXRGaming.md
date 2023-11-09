@@ -25,3 +25,15 @@ Guest:
 - Android XR are perfect for Iot visualisation and interaction
 
 - 
+
+
+- It is really hard to answer a 70 year old... 8 years ago, I through we were far of Ghost in the shell. 4 years ago, I realized that Oculus Quest 2 is the same as some part of this manga. This year, AI allows to have some other par of this manga...
+  - Want to have fun on the topic. Watch the best futuristic movie and how close we are from the realistic part of them...
+ 
+
+
+
+----------------
+
+Discord community Lynx R1 note:
+- War Dust https://youtu.be/yV3MYGXP8no
